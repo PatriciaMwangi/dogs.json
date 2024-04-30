@@ -1,17 +1,19 @@
-
 {
     "name": "bankingapp-mock-api",
     "version": "1.0.0",
     "description": "",
+     "homepage": "https://PatriciaMwangi.github.io/",
     "main": "server.js",
     "scripts": {
-      "start" : "node server.js"
+        "start": "node server.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "json-server": "^0.16.2"
+        "json-server": "^0.16.2"
+    },
+    "devDependencies": {
+        "gh-pages": "^6.1.1"
     }
-  }
-  
+}
